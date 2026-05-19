@@ -13,7 +13,7 @@
 <div align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=dietrich-gutschow&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dietrich-gutschow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
