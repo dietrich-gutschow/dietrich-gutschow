@@ -14,8 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=838&height=24&lines=GitHub+Stats)](https://git.io/typing-svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=838)](https://git.io/streak-stats)
