@@ -19,11 +19,13 @@
 </picture>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=838)](https://git.io/streak-stats)
 </div>
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FF796&center=true&vCenter=true&width=838&height=18&lines=Random+Dev+Qoute)](https://git.io/typing-svg)
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
