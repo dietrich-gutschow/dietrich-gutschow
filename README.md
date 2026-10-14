@@ -11,22 +11,19 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=838&height=24&lines=GitHub+Stats)](https://git.io/typing-svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dietrich-gutschow/dietrich-gutschow/output/github-contribution-grid-snake.svg">
-</picture><br/>
-
+</picture>
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=dietrich-gutschow&theme=tokyonight&hide_border=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dietrich-gutschow&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
 ---
 
-### Random Dev Quote
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FF796&center=true&vCenter=true&width=838&height=18&lines=Random+Dev+Qoute)](https://git.io/typing-svg)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
